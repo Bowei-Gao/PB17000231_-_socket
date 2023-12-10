@@ -1,0 +1,3 @@
+﻿  server.cpp
+C:\Users\THINK\Documents\NSE\PB17000231_高级聊天程序_socket\ChatServer\ChatServer\server.cpp(126,29): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  ChatServer.vcxproj -> C:\Users\THINK\Documents\NSE\PB17000231_高级聊天程序_socket\ChatServer\Debug\ChatServer.exe
